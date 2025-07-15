@@ -1,0 +1,30 @@
+.result-container {
+  text-align: center;
+  margin-top: 25px;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.result-container h3 {
+  font-size: 1.4rem;
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.violation {
+  color: #d9534f;
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+
+.no-violation {
+  color: #28a745;
+  font-weight: 600;
+  font-size: 1.2rem;
+}
